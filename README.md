@@ -1,7 +1,5 @@
 # Hotel Booking Analysis
 
-This EDA project on Hotel Booking Analysis investigates cancellations, and their underlying patterns and suggests measures that can be implemented to reduce cancellations and secure revenue.
-
 The project covers booking information for a city hotel and a resort hotel including information such as when the booking was made, length of stay, the number of adults, children. The project went through the basic idea of the EDA and visualization process.
 
 In this project I will do Exploratory Data Analysis on the given dataset. The project suggests measures that can be implemented to reduce cancellations and secure revenue. For example, hotels can offer discounts or promotions to customers who book early or who book for longer stays. Hotels can also offer incentives such as free parking or free breakfast to customers who book directly with them instead of through third-party websites.
